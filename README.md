@@ -1,2 +1,6 @@
-# rewrite-api-examples
-A collection of useful usage examples of the WordPress Rewrite API
+Rewrite API Examples
+====================
+
+## About
+
+A collection of useful examples of the WordPress Rewrite API.
