@@ -41,3 +41,7 @@ The `rae_` prefix is used throughout all of the examples, where **rae** stands f
 #### [Mixed](https://github.com/tyxla/rewrite-api-examples/tree/master/mixed/)
 
 * [Mixed portfolio archive by category & date, different views for single project](https://github.com/tyxla/rewrite-api-examples/blob/master/mixed/portfolio-archive-category-date-with-views.php)
+
+## License
+
+GPL2+
